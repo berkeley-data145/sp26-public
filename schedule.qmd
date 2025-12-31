@@ -7,7 +7,7 @@ will be posted as the course progresses.
 
 ::: {.callout-note}
 Problem sets are released here and submitted on **Gradescope**. Solutions are
-posted after the due date.
+posted after the due date. Worksheets are completed in Friday discussion sections.
 :::
 
 ## Weekly Schedule
@@ -17,55 +17,76 @@ INSTRUCTORS: Update this table from the private repo as materials are ready.
 Copy/paste the relevant rows and update the links to point to the actual files.
 -->
 
-| Week | Date | Topic | Materials | Assignments |
-|:----:|:-----|:------|:----------|:------------|
-| 1 | Tue 1/21 | Introduction to Data Science | [Slides](#) | |
-| | Thu 1/23 | Probability Fundamentals | [Slides](#) | [PS1](problemsets/) released |
-| 2 | Tue 1/28 | Conditional Probability | [Slides](#) | |
-| | Thu 1/30 | Bayes' Theorem | [Slides](#) | **PS1 due** |
-| 3 | Tue 2/4 | Discrete Random Variables | [Slides](#) | [PS2](problemsets/) released |
-| | Thu 2/6 | Common Discrete Distributions | [Slides](#) | |
-| 4 | Tue 2/11 | Continuous Random Variables | [Slides](#) | |
-| | Thu 2/13 | Normal Distribution | [Slides](#) | **PS2 due** |
-| 5 | Tue 2/18 | Expectation and Variance | [Slides](#) | [PS3](problemsets/) released |
-| | Thu 2/20 | Joint Distributions | [Slides](#) | |
-| 6 | Tue 2/25 | Covariance and Correlation | [Slides](#) | |
-| | Thu 2/27 | Law of Large Numbers | [Slides](#) | **PS3 due** |
-| 7 | Tue 3/4 | Central Limit Theorem | [Slides](#) | |
-| | Thu 3/6 | **Midterm Exam** (in class) | [Review](#) | |
-| 8 | Tue 3/11 | Point Estimation | [Slides](#) | [PS4](problemsets/) released |
-| | Thu 3/13 | Properties of Estimators | [Slides](#) | |
-| 9 | Tue 3/18 | Confidence Intervals | [Slides](#) | |
-| | Thu 3/20 | Hypothesis Testing I | [Slides](#) | **PS4 due** |
-| -- | 3/24-28 | **Spring Break** | | |
-| 10 | Tue 4/1 | Hypothesis Testing II | [Slides](#) | [PS5](problemsets/) released |
-| | Thu 4/3 | Simple Linear Regression | [Slides](#) | |
-| 11 | Tue 4/8 | Least Squares Estimation | [Slides](#) | |
-| | Thu 4/10 | Regression Inference | [Slides](#) | **PS5 due** |
-| 12 | Tue 4/15 | Multiple Regression | [Slides](#) | [PS6](problemsets/) released |
-| | Thu 4/17 | Model Selection | [Slides](#) | |
-| 13 | Tue 4/22 | Regression Diagnostics | [Slides](#) | |
-| | Thu 4/24 | Course Review | [Review](#) | **PS6 due** |
-| 14 | 4/28-5/2 | **RRR Week** | | |
-| 15 | TBD | **Final Exam** | [Practice](#) | |
+| Week | Date | Lec | Topic | Section | Assignments |
+|:----:|:-----|:---:|:------|:--------|:------------|
+| 1 | Tue 1/20 | 1 | Course intro; convergence and delta method via MLE | | |
+| | Thu 1/22 | 2 | Modes of convergence, continuous mapping, Slutsky | | |
+| | Fri 1/23 | | | Worksheet 1 | **HW1 due 1/26** |
+| 2 | Tue 1/27 | 3 | MLE 1: Score, Fisher information, consistency | | |
+| | Thu 1/29 | 4 | MLE 2: Asymptotic normality, confidence intervals | | |
+| | Fri 1/30 | | | Worksheet 2 | **HW2 due 2/2** |
+| 3 | Tue 2/3 | 5 | MLE 3: Efficiency, Cramér-Rao | | |
+| | Thu 2/5 | 6 | Bayes 1: Loss, risk, MSE, bias-variance decomposition | | |
+| | Fri 2/6 | | | Worksheet 3 | **HW3 due 2/9** |
+| 4 | Tue 2/10 | 7 | Bayes 2: Prior and posterior, exponential families | | |
+| | Thu 2/12 | 8 | Bayes 3: Epistemic uncertainty, Jeffreys priors | | |
+| | Fri 2/13 | | | Worksheet 4 | **HW4 due 2/17** |
+| 5 | Tue 2/17 | 9 | Model misspecification, K-L divergence | | |
+| | Thu 2/19 | 10 | Empirical distribution, bootstrap confidence intervals | | |
+| | Fri 2/20 | | | Worksheet 5 | **HW5 due 2/23** |
+| 6 | Tue 2/24 | 11 | Empirical CDF, KS statistic, hypothesis testing intro | | |
+| | Thu 2/26 | 12 | Hypothesis testing 1: Likelihood ratios, Neyman-Pearson | | |
+| | Fri 2/27 | | | Worksheet 6 | **HW6 due 3/2** |
+| 7 | Tue 3/3 | 13 | Hypothesis testing 2: LRT examples, UMP tests | | |
+| | Thu 3/5 | 14 | Hypothesis testing 3: p-values, test-CI duality | | |
+| | Fri 3/6 | | | Worksheet 7 | **HW7 due 3/9** |
+| 8 | Tue 3/10 | 15 | Asymptotics: Score, Wald, generalized LRT | | |
+| | Thu 3/12 | 16 | Generalized LRT, chi-squared test for goodness of fit | | |
+| | Fri 3/13 | | | **Midterm Exam (evening)** | |
+| 9 | Tue 3/17 | 17 | Total variation distance, small-sample alternatives | | |
+| | Thu 3/19 | 18 | A/B testing: Comparing samples, permutations | | |
+| | Fri 3/20 | | | *No section* | **HW8 due 3/30** |
+| -- | 3/23-27 | | **Spring Break** | | |
+| 10 | Tue 3/31 | 19 | Multivariate Gaussian 1: Z, chi-squared, t, F distributions | | |
+| | Thu 4/2 | 20 | Multivariate Gaussian 2: Multiple regression inference | | |
+| | Fri 4/3 | | | Worksheet 8 | **HW9 due 4/6** |
+| 11 | Tue 4/7 | 21 | Finite sample concentration, sub-Gaussian variables | | |
+| | Thu 4/9 | 22 | Applications | | |
+| | Fri 4/10 | | | Worksheet 9 | **HW10 due 4/13** |
+| 12 | Tue 4/14 | 23 | Multiple testing 1: FWER, Bonferroni | | |
+| | Thu 4/16 | 24 | Multiple testing 2: FDR, Benjamini-Hochberg | | |
+| | Fri 4/17 | | | Worksheet 10 | **HW11 due 4/20** |
+| 13 | Tue 4/21 | 25 | Empirical Bayes, local FDR, Gibbs sampler | | |
+| | Thu 4/23 | 26 | Causal inference 1 | | |
+| | Fri 4/24 | | | Worksheet 11 | **HW12 due 4/27** |
+| 14 | Tue 4/28 | 27 | Causal inference 2 | | |
+| | Thu 4/30 | 28 | Course summary | | |
+| RRR | 5/4-8 | | **RRR Week** | Review sessions | |
+| Finals | Wed 5/13 | | **Final Exam** | 11:30am - 2:30pm | |
 
 ## Problem Sets
 
-| Assignment | Released | Due | Solutions |
-|:-----------|:---------|:----|:----------|
-| [Problem Set 1](problemsets/) | Jan 21 | Jan 30, 11:59pm | Posted after due date |
-| [Problem Set 2](problemsets/) | Feb 4 | Feb 13, 11:59pm | Posted after due date |
-| [Problem Set 3](problemsets/) | Feb 18 | Feb 27, 11:59pm | Posted after due date |
-| [Problem Set 4](problemsets/) | Mar 11 | Mar 20, 11:59pm | Posted after due date |
-| [Problem Set 5](problemsets/) | Apr 1 | Apr 10, 11:59pm | Posted after due date |
-| [Problem Set 6](problemsets/) | Apr 15 | Apr 24, 11:59pm | Posted after due date |
+| Assignment | Due Date | Solutions |
+|:-----------|:---------|:----------|
+| Homework 1 | Mon 1/26 | Posted after due date |
+| Homework 2 | Mon 2/2 | Posted after due date |
+| Homework 3 | Mon 2/9 | Posted after due date |
+| Homework 4 | Tue 2/17 | Posted after due date |
+| Homework 5 | Mon 2/23 | Posted after due date |
+| Homework 6 | Mon 3/2 | Posted after due date |
+| Homework 7 | Mon 3/9 | Posted after due date |
+| Homework 8 | Mon 3/30 | Posted after due date |
+| Homework 9 | Mon 4/6 | Posted after due date |
+| Homework 10 | Mon 4/13 | Posted after due date |
+| Homework 11 | Mon 4/20 | Posted after due date |
+| Homework 12 | Mon 4/27 | Posted after due date |
 
 ## Exams
 
 | Exam | Date | Time | Location |
 |:-----|:-----|:-----|:---------|
-| Midterm | Thursday, March 6 | In class | Regular classroom |
-| Final | TBD | TBD | TBD |
+| Midterm | Friday, March 13 | Evening | TBD |
+| Final | Wednesday, May 13 | 11:30am - 2:30pm | TBD (Exam Group 10) |
 
 Practice exams and solutions will be posted before each exam.
 
@@ -73,6 +94,6 @@ Practice exams and solutions will be posted before each exam.
 
 ::: {.callout-tip}
 ## Staying on Track
-We recommend completing the readings and reviewing lecture slides before each
-class. Start problem sets early to have time to ask questions in office hours!
+We recommend reviewing lecture material before each class. Start problem sets
+early to have time to ask questions in office hours and discussion sections!
 :::

@@ -45,13 +45,13 @@ This course covers statistical theory for measuring uncertainty in large dataset
 
 ## Announcements
 
-### Week 1 (January 21)
+### Week 1 (January 20)
 
 Welcome to Data 145! Here's what you need to know:
 
-- **First lecture**: Tuesday, January 21 at 9:30am in Birge 50
-- **Problem Set 1**: Released January 21, due January 30 on Gradescope
-- **Discussion sections**: Begin Friday, January 24
+- **First lecture**: Tuesday, January 20 at 9:30am in Birge 50
+- **Homework 1**: Due Monday, January 26 on Gradescope
+- **Discussion sections**: Begin Friday, January 23 (Worksheet 1)
 - **Computing**: Please set up Python/Jupyter before the first lab (see [Resources](resources.qmd))
 
 ---

@@ -11,10 +11,10 @@ Your grade will be determined by the following components:
 
 | Component | Weight | Notes |
 |:----------|-------:|:------|
-| Problem Sets | 40% | 6 problem sets, lowest score dropped |
-| Quizzes | 10% | Weekly in-class quizzes, lowest 2 dropped |
-| Midterm Exam | 20% | Thursday, March 6 (in class) |
-| Final Exam | 25% | Date TBD |
+| Homework | 40% | 12 weekly assignments, lowest score dropped |
+| Worksheets | 10% | Weekly discussion section worksheets |
+| Midterm Exam | 20% | Friday, March 13 (evening) |
+| Final Exam | 25% | Wednesday, May 13, 11:30am - 2:30pm |
 | Participation | 5% | Discussion section attendance and engagement |
 
 ### Letter Grades
@@ -32,15 +32,15 @@ can earn high grades. Typical grade boundaries are approximately:
 We reserve the right to adjust these boundaries based on overall class
 performance.
 
-## Problem Sets
+## Homework
 
-- **Release**: Problem sets are released on the [course website](schedule.qmd)
+- **Release**: Homework assignments are released on the [course website](schedule.qmd)
   each week
-- **Submission**: Submit on **Gradescope** by the deadline (typically Thursday
+- **Submission**: Submit on **Gradescope** by the deadline (typically Monday
   at 11:59pm)
 - **Format**: Submit a single PDF. We recommend LaTeX, but neatly handwritten
   and scanned solutions are acceptable
-- **Lowest score**: Your lowest problem set score will be dropped
+- **Lowest score**: Your lowest homework score will be dropped
 
 ### Late Policy
 
