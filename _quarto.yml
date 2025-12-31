@@ -3,7 +3,7 @@ project:
   output-dir: _site
 
 website:
-  title: "Data 145: Introduction to Data Science"
+  title: "Data 145: Evidence and Uncertainty"
   description: "Course materials for Data 145, Spring 2026"
 
   # Navigation bar

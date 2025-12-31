@@ -1,22 +1,23 @@
 ---
-title: "Data 145: Introduction to Data Science"
+title: "Data 145: Evidence and Uncertainty"
 subtitle: "Spring 2026 | UC Berkeley"
 ---
 
 ## Welcome
 
-Welcome to Data 145! This course provides a rigorous introduction to the
-foundations of data science, with emphasis on statistical thinking, probability
-theory, and computational methods.
+Welcome to Data 145! This course examines how much we can rely on conclusions
+drawn from data, covering statistical theory for measuring uncertainty in
+large datasets.
 
 ## Course Information
 
 |                    |                                              |
 |:-------------------|:---------------------------------------------|
-| **Instructor**     | Professor TBD                                |
-| **Lectures**       | TuTh 11:00am - 12:30pm, Room TBD             |
+| **Instructors**    | Ani Adhikari, William Fithian                |
+| **Lectures**       | TuTh 9:30am - 10:59am, Birge 50              |
 | **Discussion**     | Fridays (see schedule for section times)     |
 | **Office Hours**   | See [Resources](resources.qmd) for schedule  |
+| **Units**          | 4                                            |
 
 ## Quick Links
 
@@ -25,16 +26,22 @@ theory, and computational methods.
 - [Course Policies](policies.qmd) - Grading, collaboration, and academic integrity
 - [Resources](resources.qmd) - Textbooks, computing setup, and getting help
 
+## Prerequisites
+
+- Math 53 (Multivariable Calculus)
+- Data C100 (Principles and Techniques of Data Science)
+- Data C140 or EECS 126 (C- or better, or Pass grade)
+
 ## What You'll Learn
 
-This course covers fundamental concepts in probability and statistics that form
-the foundation of modern data science:
+This course covers statistical theory for measuring uncertainty in large datasets:
 
-- **Probability**: Sample spaces, conditional probability, Bayes' theorem
-- **Random Variables**: Discrete and continuous distributions, expectation, variance
-- **Limit Theorems**: Law of large numbers, central limit theorem
-- **Statistical Inference**: Estimation, confidence intervals, hypothesis testing
-- **Linear Regression**: Simple and multiple regression, inference, diagnostics
+- **Paradigms of Inference**: Bayesian and frequentist approaches to statistical reasoning
+- **Asymptotic Methods**: Large-sample theory and approximations
+- **Finite-Sample Methods**: Exact inference for small samples
+- **Parametric and Nonparametric Techniques**: Model-based and distribution-free methods
+- **Causality**: Causal inference from observational and experimental data
+- **Multiple Testing**: Controlling error rates when testing many hypotheses
 
 ## Announcements
 
@@ -42,7 +49,7 @@ the foundation of modern data science:
 
 Welcome to Data 145! Here's what you need to know:
 
-- **First lecture**: Tuesday, January 21 at 11:00am
+- **First lecture**: Tuesday, January 21 at 9:30am in Birge 50
 - **Problem Set 1**: Released January 21, due January 30 on Gradescope
 - **Discussion sections**: Begin Friday, January 24
 - **Computing**: Please set up Python/Jupyter before the first lab (see [Resources](resources.qmd))
