@@ -76,7 +76,7 @@ No appointment needed!
 
 ### Ed Discussion
 
-Our course discussion forum is on [Ed Discussion](https://edstem.org). Use it
+Our course discussion forum is on [Ed Discussion](https://edstem.org/us/courses/90354/discussion/). Use it
 to:
 
 - Ask questions about course material
@@ -95,13 +95,13 @@ to:
 
 - **SLC Drop-In Tutoring**: The [Student Learning Center](https://slc.berkeley.edu)
   offers free drop-in tutoring for many courses
-- **Study Groups**: We encourage forming study groups! Use Ed to find classmates
+- **Study Groups**: We encourage forming study groups! Use [Ed](https://edstem.org/us/courses/90354/discussion/) to find classmates
 
 ## Gradescope
 
-All assignments are submitted on [Gradescope](https://www.gradescope.com).
+All assignments are submitted on [Gradescope](https://www.gradescope.com/courses/1206670).
 
-- **Entry code**: Will be posted on Ed Discussion
+- **Entry code**: Will be posted on [Ed Discussion](https://edstem.org/us/courses/90354/discussion/)
 - **Submission format**: PDF (LaTeX preferred, or neatly scanned handwriting)
 - **Regrade requests**: Submit within one week of receiving scores
 
@@ -120,6 +120,6 @@ Your wellbeing matters. If you're struggling, please reach out:
 
 ::: {.callout-tip}
 ## Suggestion?
-Know of a helpful resource we should add? Post on Ed Discussion or let us know
+Know of a helpful resource we should add? Post on [Ed Discussion](https://edstem.org/us/courses/90354/discussion/) or let us know
 in office hours!
 :::

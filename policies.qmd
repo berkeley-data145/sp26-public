@@ -38,7 +38,7 @@ guarantees such as, "An overall score of at least x% will earn at least an A-."
 
 - **Attendance**: Lecture and discussion attendance is strongly recommended but
   not required. Attendance will not be recorded.
-- **Submission**: Weekly assignments will be submitted on Gradescope.
+- **Submission**: Weekly assignments will be submitted on [Gradescope](https://www.gradescope.com/courses/1206670).
 - **Late work**: No late submissions will be accepted except for students who
   have DSP extended time accommodations or other justifications mandated as
   acceptable by the campus.
@@ -129,7 +129,7 @@ information with us as soon as possible.
 
 ## Communication
 
-- **Ed Discussion**: Use for all course-related questions. We aim to respond
+- **[Ed Discussion](https://edstem.org/us/courses/90354/discussion/)**: Use for all course-related questions. We aim to respond
   within 24 hours
 - **Email**: Use only for private matters (grades, personal circumstances)
 - **Office hours**: The best place to get help with assignments and concepts
@@ -138,7 +138,7 @@ information with us as soon as possible.
 
 ::: {.callout-important}
 ## Questions?
-If anything in these policies is unclear, please ask on Ed Discussion or in
+If anything in these policies is unclear, please ask on [Ed Discussion](https://edstem.org/us/courses/90354/discussion/) or in
 office hours. Policies may be updated during the semester; any changes will be
 announced.
 :::

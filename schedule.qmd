@@ -5,9 +5,15 @@ title: "Course Schedule"
 This page contains the course schedule with links to all materials. Materials
 will be posted as the course progresses.
 
+::: {.callout-warning}
+## Schedule Subject to Change
+This schedule is tentative. Topics and due dates may be adjusted as the semester
+progresses. Check [Ed Discussion](https://edstem.org/us/courses/90354/discussion/) for announcements.
+:::
+
 ::: {.callout-note}
-Problem sets are released here and submitted on **Gradescope**. Solutions are
-posted after the due date. Worksheets are completed in Friday discussion sections.
+Problem sets are released here and submitted on [Gradescope](https://www.gradescope.com/courses/1206670). Solutions are
+posted on [bCourses](https://bcourses.berkeley.edu/courses/1551142) after the due date. Worksheets are completed in Friday discussion sections.
 :::
 
 ## Weekly Schedule
@@ -66,20 +72,22 @@ Copy/paste the relevant rows and update the links to point to the actual files.
 
 ## Problem Sets
 
-| Assignment | Due Date | Solutions |
-|:-----------|:---------|:----------|
-| Homework 1 | Mon 1/26 | Posted after due date |
-| Homework 2 | Mon 2/2 | Posted after due date |
-| Homework 3 | Mon 2/9 | Posted after due date |
-| Homework 4 | Tue 2/17 | Posted after due date |
-| Homework 5 | Mon 2/23 | Posted after due date |
-| Homework 6 | Mon 3/2 | Posted after due date |
-| Homework 7 | Mon 3/9 | Posted after due date |
-| Homework 8 | Mon 3/30 | Posted after due date |
-| Homework 9 | Mon 4/6 | Posted after due date |
-| Homework 10 | Mon 4/13 | Posted after due date |
-| Homework 11 | Mon 4/20 | Posted after due date |
-| Homework 12 | Mon 4/27 | Posted after due date |
+| Assignment | Due Date |
+|:-----------|:---------|
+| Homework 1 | Mon 1/26 |
+| Homework 2 | Mon 2/2 |
+| Homework 3 | Mon 2/9 |
+| Homework 4 | Tue 2/17 |
+| Homework 5 | Mon 2/23 |
+| Homework 6 | Mon 3/2 |
+| Homework 7 | Mon 3/9 |
+| Homework 8 | Mon 3/30 |
+| Homework 9 | Mon 4/6 |
+| Homework 10 | Mon 4/13 |
+| Homework 11 | Mon 4/20 |
+| Homework 12 | Mon 4/27 |
+
+Solutions are posted on [bCourses](https://bcourses.berkeley.edu/courses/1551142) after the due date.
 
 ## Exams
 

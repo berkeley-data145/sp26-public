@@ -1,0 +1,72 @@
+/*-- scss:defaults --*/
+
+// Berkeley official colors
+$berkeley-blue: #003262;
+$california-gold: #FDB515;
+$founders-rock: #3B7EA1;
+$medalist: #C4820E;
+
+// Theme color mappings
+$primary: $berkeley-blue;
+$secondary: $founders-rock;
+$link-color: $berkeley-blue;
+
+// Navbar styling
+$navbar-bg: $berkeley-blue;
+$navbar-fg: white;
+
+/*-- scss:rules --*/
+
+// Navbar brand/title styling
+.navbar-title {
+  font-weight: 600;
+}
+
+// Links with gold hover
+a:hover {
+  color: $medalist;
+}
+
+// Navbar links hover
+.navbar-nav .nav-link:hover {
+  color: $california-gold !important;
+}
+
+// Callout styling - use gold for important callouts
+.callout-important {
+  border-left-color: $california-gold;
+}
+
+.callout-important .callout-icon::before {
+  background-color: $california-gold;
+}
+
+// Table header styling
+th {
+  background-color: lighten($berkeley-blue, 70%);
+}
+
+// Footer styling
+.nav-footer {
+  background-color: $berkeley-blue;
+  color: white;
+}
+
+.nav-footer a {
+  color: white;
+}
+
+.nav-footer a:hover {
+  color: $california-gold;
+}
+
+// Sidebar active link
+.sidebar-item-text.active {
+  color: $berkeley-blue;
+  font-weight: 600;
+}
+
+// Code block styling
+pre.sourceCode {
+  border-left: 3px solid $california-gold;
+}
