@@ -72,20 +72,20 @@ Copy/paste the relevant rows and update the links to point to the actual files.
 
 ## Problem Sets
 
-| Assignment | Due Date |
-|:-----------|:---------|
-| Homework 1 | Mon 1/26 |
-| Homework 2 | Mon 2/2 |
-| Homework 3 | Mon 2/9 |
-| Homework 4 | Tue 2/17 |
-| Homework 5 | Mon 2/23 |
-| Homework 6 | Mon 3/2 |
-| Homework 7 | Mon 3/9 |
-| Homework 8 | Mon 3/30 |
-| Homework 9 | Mon 4/6 |
-| Homework 10 | Mon 4/13 |
-| Homework 11 | Mon 4/20 |
-| Homework 12 | Mon 4/27 |
+| Assignment | Due Date | Materials |
+|:-----------|:---------|:----------|
+| [Homework 1](problemsets/ps01/ps01.pdf) | Mon 1/26 | [pdf](problemsets/ps01/ps01.pdf), [tex](problemsets/ps01/ps01.tex) |
+| Homework 2 | Mon 2/2 | |
+| Homework 3 | Mon 2/9 | |
+| Homework 4 | Tue 2/17 | |
+| Homework 5 | Mon 2/23 | |
+| Homework 6 | Mon 3/2 | |
+| Homework 7 | Mon 3/9 | |
+| Homework 8 | Mon 3/30 | |
+| Homework 9 | Mon 4/6 | |
+| Homework 10 | Mon 4/13 | |
+| Homework 11 | Mon 4/20 | |
+| Homework 12 | Mon 4/27 | |
 
 Solutions are posted on [bCourses](https://bcourses.berkeley.edu/courses/1551142) after the due date.
 
