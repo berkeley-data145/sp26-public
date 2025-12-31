@@ -27,7 +27,7 @@ Copy/paste the relevant rows and update the links to point to the actual files.
 |:----:|:-----|:---:|:------|:--------|:------------|
 | 1 | Tue 1/20 | 1 | Course intro; convergence and delta method via MLE | | |
 | | Thu 1/22 | 2 | Modes of convergence, continuous mapping, Slutsky | | |
-| | Fri 1/23 | | | Worksheet 1 | **HW1 due 1/26** |
+| | Fri 1/23 | | | Worksheet 1 | [**HW1**](problemsets/ps01/ps01.pdf) due 1/26 |
 | 2 | Tue 1/27 | 3 | MLE 1: Score, Fisher information, consistency | | |
 | | Thu 1/29 | 4 | MLE 2: Asymptotic normality, confidence intervals | | |
 | | Fri 1/30 | | | Worksheet 2 | **HW2 due 2/2** |
