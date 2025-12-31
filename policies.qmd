@@ -9,98 +9,115 @@ carefully and refer back as needed throughout the semester.
 
 Your grade will be determined by the following components:
 
-| Component | Weight | Notes |
-|:----------|-------:|:------|
-| Homework | 40% | 12 weekly assignments, lowest score dropped |
-| Worksheets | 10% | Weekly discussion section worksheets |
-| Midterm Exam | 20% | Friday, March 13 (evening) |
-| Final Exam | 25% | Wednesday, May 13, 11:30am - 2:30pm |
-| Participation | 5% | Discussion section attendance and engagement |
+| Component | Weight |
+|:----------|-------:|
+| Weekly Assignments | 25% |
+| Midterm Exam | 35% |
+| Final Exam | 40% |
+
+### Exams
+
+Mid-semester and final assessments will include:
+
+- Problem-solving
+- True/false conceptual questions
+- Statements of major results along with their assumptions
+
+In addition, the final exam will include an essay demonstrating a thorough
+understanding of one topic from a short list (not provided ahead of time) of
+primary topics from the course.
 
 ### Letter Grades
 
-Final letter grades will be assigned based on overall performance. We do not
-use a fixed curve; if everyone demonstrates mastery of the material, everyone
-can earn high grades. Typical grade boundaries are approximately:
+There is no "curve" or pre-determined distribution of letter grades. Summaries
+of class performance will be provided after the midterm. Shortly before RRR
+week there will be another performance summary as well as some letter grade
+guarantees such as, "An overall score of at least x% will earn at least an A-."
 
-- A/A-: 90-100%
-- B+/B/B-: 80-89%
-- C+/C/C-: 70-79%
-- D: 60-69%
-- F: Below 60%
+## Attendance and Work Submission
 
-We reserve the right to adjust these boundaries based on overall class
-performance.
+- **Attendance**: Lecture and discussion attendance is strongly recommended but
+  not required. Attendance will not be recorded.
+- **Submission**: Weekly assignments will be submitted on Gradescope.
+- **Late work**: No late submissions will be accepted except for students who
+  have DSP extended time accommodations or other justifications mandated as
+  acceptable by the campus.
+- **Dropped scores**: The two lowest assignment scores will be dropped in the
+  calculation of the overall assignment grade.
 
-## Homework
+## Collaboration and Integrity
 
-- **Release**: Homework assignments are released on the [course website](schedule.qmd)
-  each week
-- **Submission**: Submit on **Gradescope** by the deadline (typically Monday
-  at 11:59pm)
-- **Format**: Submit a single PDF. We recommend LaTeX, but neatly handwritten
-  and scanned solutions are acceptable
-- **Lowest score**: Your lowest homework score will be dropped
+You are encouraged to discuss practice problems and homework with your fellow
+students and with course staff. Arguing with friends about exercises is an
+excellent and time-honored way to learn. However, **you must write up all your
+own assignments and code by yourself**.
 
-### Late Policy
+Copying assignments from other sources is not only dishonest, it also doesn't
+help anyone. Each exercise requires its own combination of ideas, and each
+student needs practice in coming up with those combinations, or else they will
+be at a loss when trying to use probability theory in their future work.
 
-- **Slip days**: You have **3 slip days** for the semester, which can be used
-  on any problem set
-- **Usage**: Slip days are applied automatically; no need to notify us
-- **Maximum**: At most 2 slip days can be used on any single assignment
-- **After slip days**: Late submissions receive 0 credit unless you have
-  documentation for an extenuating circumstance
+From a purely practical perspective, **all students must work independently on
+Data 145 assessments---no collaboration allowed**. If an assessment is the
+first time a student works independently, then the assessment is not likely to
+go well.
 
-## Collaboration Policy
+### Course Materials
 
-We encourage you to work together and learn from each other! However, there are
-important boundaries:
+Data 145 materials are the intellectual property of the course developers.
+From the campus statement on [Academic Integrity](https://teaching.berkeley.edu/academic-integrity):
+"... students may not circulate or post materials (handouts, syllabi---any
+class materials) from their classes without the written permission of the
+instructor."
 
-### Permitted
+### Consequences
 
-- Discussing concepts and approaches with classmates
-- Working through examples together
-- Explaining ideas to each other
-- Using course materials (lectures, notes, textbooks)
-- Getting help in office hours
+We are tough with dishonest students and we hope that we will not be put in
+that situation in this class. We expect that you will work with integrity and
+with respect for other members of the class, just as the course staff will
+work with integrity and with respect for you.
 
-### Not Permitted
+## Community Standards
 
-- Copying solutions from classmates (even if you worked together)
-- Sharing written solutions before the deadline
-- Using solutions from previous semesters
-- Using AI tools (ChatGPT, GitHub Copilot, etc.) to generate solutions
-- Posting problems or solutions online
+Ed is a formal, academic space. We must demonstrate appropriate respect,
+consideration, and compassion for others. Please be friendly and thoughtful;
+our community draws from a wide spectrum of valuable experiences.
 
-### Write-Up Rule
+For further reading, please reference
+[Berkeley's Principles of Community](https://diversity.berkeley.edu/principles-community)
+and the [Berkeley Campus Code of Student Conduct](https://conduct.berkeley.edu/code-of-conduct/).
 
-**You must write up your solutions independently.** Even if you discussed a
-problem with classmates, your final written solution must be your own work,
-written in your own words, without looking at anyone else's solution.
+## Data Science Student Climate
 
-**Citation**: If you received substantial help on a problem (from a classmate,
-TA, or other source), please note this in your submission.
+[Data Science Undergraduate Studies](https://data.berkeley.edu) faculty and
+staff are committed to creating a community where every person feels
+[respected, included, and supported](https://data.berkeley.edu/about/diversity-equity-inclusion).
+We recognize that incidents may happen, sometimes unintentionally, that run
+counter to this goal. There are many things we can do to try to improve the
+climate for students, but we need to understand where the challenges lie.
 
-## Academic Integrity
+If you experience a remark, or disrespectful treatment, or if you feel you are
+being ignored, excluded or marginalized in a course or program-related
+activity, please speak up. Consider talking to your instructor, but you are
+also welcome to contact Executive Director Christina Teller at
+cpteller@berkeley.edu or report an incident anonymously through the
+[online form](https://docs.google.com/forms/d/e/1FAIpQLSfBwaUe7VMQz6VzkYFvf4KYwNSTve9iJlBSQyAmsXoSE0LnWw/viewform).
 
-We take academic integrity seriously. Violations will be reported to the
-Center for Student Conduct and may result in:
+## Accommodations
 
-- Zero on the assignment
-- Failing grade in the course
-- Notation on your academic record
+We honor and respect the different learning needs of our students, and are
+committed to ensuring you have the resources you need to succeed in our class.
+If you need religious or disability-related accommodations, if you have
+emergency medical information you wish to share with us, or if you need special
+arrangements in case the building must be evacuated, please share this
+information with us as soon as possible.
 
-If you're unsure whether something is allowed, please ask! We're happy to
-clarify.
-
-## Exams
-
-- **Closed book**: No notes, books, or electronic devices
-- **Calculator**: No calculators (problems will not require one)
-- **Conflicts**: If you have a conflict with an exam date, notify us within
-  the first two weeks of the semester
-- **Accommodations**: Students with DSP accommodations should provide their
-  letters as early as possible
+- **Disabled Students Program**: If you have physical, psychological, or
+  learning disabilities that could affect your performance in the course, we
+  urge you to contact [DSP](https://dsp.berkeley.edu).
+- **Religious Observance**: If you require accommodation for religious
+  observance, please contact us at least a week before the deadline in question
+  to make arrangements.
 
 ## Regrades
 
@@ -110,31 +127,12 @@ clarify.
 - **Note**: We may regrade the entire assignment, which could result in a
   lower score
 
-## Attendance
-
-- **Lectures**: Not mandatory, but highly recommended. Lectures cover material
-  not always in the textbook
-- **Discussion sections**: Attendance is expected and counts toward participation
-- **Quizzes**: Given in class; you must be present to take them (we drop the
-  lowest 2)
-
-## Accessibility and Accommodations
-
-We are committed to making this course accessible to all students:
-
-- **DSP accommodations**: Please provide your accommodation letters as early as
-  possible so we can make appropriate arrangements
-- **Other needs**: If you have any concerns about accessibility, please talk to
-  us. We want to help you succeed
-- **Mental health**: Your wellbeing matters. If you're struggling, please reach
-  out. UC Berkeley has resources including the [Tang Center](https://uhs.berkeley.edu/mental-health)
-
 ## Communication
 
 - **Ed Discussion**: Use for all course-related questions. We aim to respond
   within 24 hours
 - **Email**: Use only for private matters (grades, personal circumstances)
-- **Office hours**: The best place to get help with problem sets and concepts
+- **Office hours**: The best place to get help with assignments and concepts
 
 ---
 

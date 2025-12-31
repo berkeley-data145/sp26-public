@@ -5,9 +5,15 @@ subtitle: "Spring 2026 | UC Berkeley"
 
 ## Welcome
 
-Welcome to Data 145! This course examines how much we can rely on conclusions
-drawn from data, covering statistical theory for measuring uncertainty in
-large datasets.
+Welcome to Data 145! When we learn about the world from data, how much can we
+rely on the conclusions we draw? How do we know if we could do better?
+
+This course covers the statistical theory required to measure and control our
+uncertainty when we analyze large and complex modern data sets. We will use
+mathematical and computational lenses to examine optimality properties and
+error bounds. The class will be fast-paced and math-intensive. Students will
+be expected to learn independently and participate actively in all lecture
+and discussion sessions.
 
 ## Course Information
 
