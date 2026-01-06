@@ -12,8 +12,8 @@ Your grade will be determined by the following components:
 | Component | Weight |
 |:----------|-------:|
 | Weekly Assignments | 25% |
-| Midterm Exam | 35% |
-| Final Exam | 40% |
+| Midterm Exam | 30% |
+| Final Exam | 45% |
 
 ### Exams
 
@@ -38,10 +38,10 @@ guarantees such as, "An overall score of at least x% will earn at least an A-."
 
 - **Attendance**: Lecture and discussion attendance is strongly recommended but
   not required. Attendance will not be recorded.
-- **Submission**: Weekly assignments will be submitted on [Gradescope](https://www.gradescope.com/courses/1206670).
+- **Submission**: Weekly assignments will be submitted on [Gradescope](https://www.gradescope.com/courses/1206670) every Monday at 5pm.
 - **Late work**: No late submissions will be accepted except for students who
   have DSP extended time accommodations or other justifications mandated as
-  acceptable by the campus.
+  acceptable by the campus. Solutions will be released 24 hours after assignments are due.
 - **Dropped scores**: The two lowest assignment scores will be dropped in the
   calculation of the overall assignment grade.
 
@@ -131,7 +131,7 @@ information with us as soon as possible.
 
 - **[Ed Discussion](https://edstem.org/us/courses/90354/discussion/)**: Use for all course-related questions. We aim to respond
   within 24 hours
-- **Email**: Use only for private matters (grades, personal circumstances)
+- **Email course staff at [data145@lists.berkeley.edu](mailto:data145@lists.berkeley.edu)**: Use only for private matters (grades, personal circumstances)
 - **Office hours**: The best place to get help with assignments and concepts
 
 ---
